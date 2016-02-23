@@ -1,0 +1,38 @@
+LIBRUM PRIMUM. CAP. XIII. 459
+
+mane apparebit in cacumine H, quando veniet in itinere suo
+ad punctum S: i. e. quando 1¹5ss totius itineris erita sub hori-
+zonte: eodemque modo noctu, quando pariter ab occasu distat
+ab horizonte. Hinc efficietur, ut omnino ξ n cerni queat noctu
+in vertice Caucasi. Ponatur planum vper punctum S et OH,
+quod ex sphaeras secabit maximum circulum, qui horizontem
+transibit puncto U. Unde consequitur SU altitudinem esse
+solis perpendicularem infra horizontem, quam inveniamus
+necesse est. Iam ponatur circulus declinationis trans punctum
+S et per PS, unde nobis datur triangulum sphaericum OPS,
+in quo erunt:
+
+OP= 90Ο -- (p, PS = 900—— (5, OPS = 1800 —}n‚
+Ι OS = 90Ο -1- US et cos. OS = —- sin. Us
+unde:
+—-— sin. US = cos. ΟΡ. cos. Ps÷sin. ΟΡ. sin. PS. cos. OPS
+
+= sin. φ. sin. ὃ - cos. φ. cos. ὃ. cos. {gn
+
+sin. Us = cos. φ. cos. ὃ. cos. ᾗ n — sin. φ. sin. δ (0²)-
+Hinc reperimus US.
+
+Sed necesse est corrigatur haec altitudo duplicata refra-
+“ ctione, quae vocetur S. Deinceps posuimus centrum solis esse
+in puncto S, quamvis solis diameter, qualis apparet, est 31¹ 57⁴¹.
+Subtrahantur igitur 15¹ 58¹¹ ab altitudine US. Itaque angulus
+inter radium terrae CS et CO erit
+
+OCs = 900 -Ι- US —— 25 —- 15‘ 58¹¹.
+
+Tempore posito sol apparet in directione radii CS prolongati,
+distantia = R a centro terrae. Si primum temporis momen-
+tum adsequi volumus, quo in cacumine H cernitur, ducenda
+est linea ‚ quae tangat terram, ideoque arcum OFS, et transeat
+per punctum H.
+

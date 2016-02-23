@@ -1,0 +1,29 @@
+458 COMMENTARIUS IN METEOROLOG.
+
+ 
+
+ADOPQ meridianus Caucasi circuffus, PM = φ elevatio poli,
+OH =h‚ altitudo montis, AD=‹5‚ declinatio solis: erit DG
+dimidia pars arcus diurni, GE dimidia arcus nocturni a sole
+descripti, quando N GM dicimus horizontem Caucasi. AC=r
+erit radius terrae (neglecta eius forma sphaeroidica) , unde con-
+
+sequitur
+DF = 1· cos. ὃ
+
+CF =r sin. δ
+
+FT est distantia chordae, quae respondet arcus nocturni EG di-
+midiae parti, a centro F, unde habemus:
+
+FT = FC. tg (p
+= r sin. ὃ. tg sp.
+
+Designetur dimidia nocturni arcus pars indice ᾗ. n, erit
+
+r οοε. ξ n. cos. ὃ --- 1· sin. ὃ. tg φ
+coassn=tgdtgtp ...... (Θ).
+
+Inde invenietur ἐ n. Partiamur GE iu tres partes aequales
+et esto Gs pars eiusmodi tertia, erit Gs = ξ n. Sol igitur
+
